@@ -13,5 +13,3 @@ const StudentInfo = () => {
     </div>
   );
 };
-
-export default StudentInfo;
