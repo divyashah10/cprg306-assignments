@@ -2,10 +2,7 @@ export default function Page() {
     return (
       <main>
         <h1>Shopping List</h1>
-        import React from 'react';
-
-const StudentInfo = () = {
- (
+     
     <div>
       <h1>Divya Shah</h1>
       <p>
@@ -15,8 +12,8 @@ const StudentInfo = () = {
         </a>
       </p>
     </div>
-  )
-};
+
+;
 
 export default StudentInfo;
       </main>
