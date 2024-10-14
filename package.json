@@ -1,7 +1,6 @@
 {
-  "name": "cprg306-assignments",
-  "version": "0.1.0",
-  "private": true,
+  "name": "cprg306-week5-assignment",
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +8,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.13"
-  },
-  "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.13"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
