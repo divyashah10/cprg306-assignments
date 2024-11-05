@@ -25,6 +25,4 @@ async function fetchMealIdeas(ingredient) {
       </ul>
     </div>
   );
-};
-
 export default MealIdeas;
